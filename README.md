@@ -1,3 +1,3 @@
-## Cybersecurity-Portfolio
+# Cybersecurity-Portfolio
 
-# Portfolio of project work completed for the Google Cybersecurity Professional Certificate
+## Portfolio of project work completed for the Google Cybersecurity Professional Certificate
